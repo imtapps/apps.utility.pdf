@@ -1,0 +1,9 @@
+.idea/*
+*.py[oc]
+build/*
+dist/*
+*.egg-info/*
+jenkins_reports/*
+.ropeproject/*
+nosetests.xml
+.coverage
